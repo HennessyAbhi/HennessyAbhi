@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack WordPress and Core PHP Developer with **3.5+ years of experience**, specializing in building custom WordPress themes, plugins, and secure web applications.
+I'm a Full Stack WordPress and Core PHP Developer with **4.5+ years of experience**, specializing in building custom WordPress themes, plugins, and secure web applications.
 
 My strengths lie in:
 - Solving complex backend challenges
