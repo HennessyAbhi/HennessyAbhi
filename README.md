@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack WordPress and Core PHP Developer with **4.5+ years of experience**, specializing in building custom WordPress themes, plugins, and secure web applications.
+I'm a Full Stack WordPress and Core PHP Developer with **3.5+ years of experience**, specializing in building custom WordPress themes, plugins, and secure web applications.
 
 My strengths lie in:
 - Solving complex backend challenges
@@ -39,15 +39,11 @@ My strengths lie in:
 - Optimized performance, reducing response time by 30%  
 - Integrated REST APIs and built dynamic admin interfaces
 
----
-
 ### 🔹 TechStriker *(Jun 2023 – Sep 2024)*  
 **WordPress Backend Developer**  
 - Developed 50+ custom plugins and WordPress modules  
 - Specialized in WooCommerce backend extensions  
 - Delivered fast and efficient solutions with high client satisfaction
-
----
 
 ### 🔹 TMD Software Pvt. Ltd. *(Jun 2021 – Jun 2023)*  
 **Sr. WordPress Developer**  
@@ -60,14 +56,50 @@ My strengths lie in:
 ## 🚀 Projects
 
 ### 🔸 POS Plugin for WooCommerce  
-- Built a custom POS (Point-of-Sale) system with AJAX and WooCommerce  
-- Supports real-time transactions and inventory sync  
-- Improved store sales efficiency with barcode input and cashier UI
+Built a custom Point-of-Sale plugin with AJAX and WooCommerce for seamless in-store transactions.
 
 ### 🔸 Website Malware Recovery (2024)  
-- Recovered a compromised WordPress website  
-- Removed injected malware, hardened security, and restored traffic  
-- Implemented WordFence, file-level security, and DB scans
+Recovered a hacked WordPress website, removed malware, restored full functionality, and implemented security hardening.
+
+---
+
+## 📌 Previous Work
+
+### 🔧 WordPress Plugins (Built from Scratch)
+
+- 🔹 [GST for WooCommerce](https://wordpress.com/plugins/gst-for-woocommerce)  
+  A custom plugin to manage Goods and Services Tax (GST) rules within WooCommerce.
+
+- 🔹 [TMD WC Delivery Date Time](https://wordpress.com/plugins/tmd-wc-delivery-date-time)  
+  Enables customers to select delivery dates and time slots on the checkout page.
+
+- 🔹 [TMD Quote Request for WooCommerce](https://www.tmdextensions.com/woocommerce-plugin?product_id=123)  
+  Allows users to request a quote for specific products, useful for B2B sellers.
+
+- 🔹 [WooCommerce Point of Sale (POS)](https://www.tmdextensions.com/woocommerce-plugin/woocommerce-point-of-sale)  
+  Full-featured POS system integrated with WooCommerce for physical store transactions.
+
+- 🔹 [WooCommerce GST](https://www.tmdextensions.com/woocommerce-plugin/woocommerce-gst)  
+  Developed and upgraded based on client-specific GST invoice requirements.
+
+- 🔹 [WooCommerce Purchase Order Plugin](https://www.tmdextensions.com/woocommerce-plugin/woocommerce-purchase-order-plugin)  
+  Adds purchase order functionality for managing supplier inventory workflows.
+
+- 🔹 [WooCommerce Product Label](https://www.tmdextensions.com/woocommerce-plugin/woocommerce-product-label)  
+  Lets store owners add custom sale/feature labels to product thumbnails.
+
+> 🧩 Built over **30+ additional custom plugins**, handling everything from checkout enhancements to admin automation.
+
+---
+
+### 🌐 Website Projects (Client & Commercial Sites)
+
+- 🌎 [Luminita Ionel – Life Coach](https://www.luminitaionel.com)  
+- 📷 [Adam Taylor Photography](https://adamtaylorphotos.com)  
+- ⚖️ [Swain Law Group](https://swainlawgrp.com)  
+- 👨‍⚕️ [Dr. Kishore Sratnam Schools](https://drkishoresratnamschools.com)  
+- 🪲 [Bug Buster Pest Control](https://www.bugbusterteam.com)  
+- 🌿 [Masters of Lawn](https://mastersoflawn.com)
 
 ---
 
