@@ -21,13 +21,13 @@ My strengths lie in:
 
 ### 💻 Languages & Backend
 - PHP, MySQL, OOP, REST API, AJAX, WordPress Core
-- WooCommerce, Payment Gateways, Custom Post Types
+- WooCommerce, Elementor, ACF, Payment Gateways, Custom Post Types
 
 ### 🎨 Frontend
-- HTML5, CSS3, Bootstrap, JavaScript, jQuery
+- HTML, CSS, Bootstrap, JavaScript, jQuery
 
 ### ⚙️ Tools & Platforms
-- Git, cPanel, WordPress CLI, Figma, Hosting Management, HubSpot
+- VS Code, Cursor AI, Git, cPanel, WordPress CLI, Figma, Hosting Management, HubSpot
 
 ---
 
