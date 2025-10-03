@@ -98,8 +98,7 @@ Recovered a hacked WordPress website, removed malware, restored full functionali
 - 📷 [Adam Taylor Photography](https://adamtaylorphotos.com)  
 - ⚖️ [Swain Law Group](https://swainlawgrp.com)  
 - 👨‍⚕️ [Dr. Kishore Sratnam Schools](https://drkishoresratnamschools.com)  
-- 🪲 [Bug Buster Pest Control](https://www.bugbusterteam.com)  
-- 🌿 [Masters of Lawn](https://mastersoflawn.com)
+- 🌿 [Strikesystem](https://strikesystem.com/)
 
 ---
 
