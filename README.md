@@ -21,7 +21,7 @@ My strengths lie in:
 
 ### 💻 Languages & Backend
 - PHP, MySQL, OOP, REST API, AJAX, WordPress Core
-- WooCommerce, Elementor, ACF, Payment Gateways, Custom Post Types
+- WooCommerce, Elementor, Divi, ACF, Payment Gateways, Custom Post Types
 
 ### 🎨 Frontend
 - ReactJS, HTML, CSS, Bootstrap, JavaScript, jQuery
