@@ -24,7 +24,7 @@ My strengths lie in:
 - WooCommerce, Elementor, ACF, Payment Gateways, Custom Post Types
 
 ### 🎨 Frontend
-- HTML, CSS, Bootstrap, JavaScript, jQuery
+- ReactJS, HTML, CSS, Bootstrap, JavaScript, jQuery
 
 ### ⚙️ Tools & Platforms
 - VS Code, Cursor AI, Git, cPanel, WordPress CLI, Figma, Hosting Management, HubSpot
