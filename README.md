@@ -24,7 +24,7 @@ My strengths lie in:
 - WooCommerce, Elementor, ACF, Payment Gateways, Custom Post Types
 
 ### 🎨 Frontend
-- HTML, CSS, Bootstrap, JavaScript, jQuery
+- ReactJS, HTML, CSS, Bootstrap, JavaScript, jQuery
 
 ### ⚙️ Tools & Platforms
 - VS Code, Cursor AI, Git, cPanel, WordPress CLI, Figma, Hosting Management, HubSpot
@@ -98,8 +98,7 @@ Recovered a hacked WordPress website, removed malware, restored full functionali
 - 📷 [Adam Taylor Photography](https://adamtaylorphotos.com)  
 - ⚖️ [Swain Law Group](https://swainlawgrp.com)  
 - 👨‍⚕️ [Dr. Kishore Sratnam Schools](https://drkishoresratnamschools.com)  
-- 🪲 [Bug Buster Pest Control](https://www.bugbusterteam.com)  
-- 🌿 [Masters of Lawn](https://mastersoflawn.com)
+- 🌿 [Strikesystem](https://strikesystem.com/)
 
 ---
 
